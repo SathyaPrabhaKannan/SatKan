@@ -1,5 +1,27 @@
-
 # SatKan
+
+**Project Highlights**
+
+** R Machine Learning Models (`/R`)**
+- K-Nearest Neighbors (KNN)
+- Support Vector Machines (SVM)
+- Linear & Logistic Regression
+- Decision Trees & Random Forest
+- K-Means Clustering
+- Simple Neural Networks
+
+**Python Notebooks (`/Python`)**
+- Data preprocessing & basic modeling
+- Exploratory data analysis
+
+**Business Analytics (`/BusinessAnalytics`)**
+- Excel-based dashboards
+- Case analysis and decision support files
+
+**Data Mining (`/DataMining`)**
+- Clustering, classification
+- Academic reports and submissions
+
 | File Name                                                           | Description                                                                                                              |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **BA1.docx**, **BA2.xlsx**                                          | Business Analytics project files – may include dashboards, reports, or case analysis using 
@@ -27,33 +49,6 @@
 - **IDE & Platforms**: RStudio, Jupyter Notebook, Excel, Word  
 - **R Libraries**: caret, e1071, rpart, randomForest, nnet, ggplot2  
 - **Python Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn
-
-
----
-
-## 🔍 Project Highlights
-
-### 🧪 R Machine Learning Models (`/R`)
-- K-Nearest Neighbors (KNN)
-- Support Vector Machines (SVM)
-- Linear & Logistic Regression
-- Decision Trees & Random Forest
-- K-Means Clustering
-- Simple Neural Networks
-
-### 🐍 Python Notebooks (`/Python`)
-- Data preprocessing & basic modeling
-- Exploratory data analysis
-
-### 📊 Business Analytics (`/BusinessAnalytics`)
-- Excel-based dashboards
-- Case analysis and decision support files
-
-### 📈 Data Mining (`/DataMining`)
-- Clustering, classification
-- Academic reports and submissions
-
----
 
 # How to Run the Code
 
